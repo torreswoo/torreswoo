@@ -9,7 +9,7 @@
 💼 **LinkedIn:** https://www.linkedin.com/in/torreswoo/
 
 - 🏢 현재 **토스(비바리퍼블리카) ML/AI Infra Team Leader**
-- 🚀 수백 대 규모 GPU(H200, A100) 클러스터 · Kueue 기반 GPU 스케줄링 · vLLM/Dynamo LLM 서빙 · Agent Sandbox
+- 🚀 수백 대 규모 GPU(H200, A100) 클러스터 · 다양한 workload간 GPU 스케줄링 · AI Platform 구축 (LLM서빙, Agent Sandbox)
 - ⚙️ Spark · Kafka · Flink 기반 실시간 데이터 파이프라인과 Feature Store
 - ☁️ Kubernetes · AWS · GCP · 온프레미스 IDC 하이브리드 인프라
 - 🎓 GCP Certified (Machine Learning Engineer · Data Engineer · Associate Cloud Engineer)
