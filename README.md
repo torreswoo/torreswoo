@@ -23,12 +23,11 @@
 
 | 기간 | 회사 | 역할 |
 |---|---|---|
-| 2025.12 ~ 현재 | 토스 (비바리퍼블리카) | ML/AI Infra Team Leader |
-| 2024.12 ~ 2025.11 | 토스 (비바리퍼블리카) | ML Platform · MLOps Engineer |
-| 2023.05 ~ 2024.11 | 위대한상상 (요기요) | MLOps Team Leader · Data Engineer |
-| 2019.02 ~ 2023.05 | 카카오모빌리티 | Data & MLOps Engineer (Part Leader) |
+| 2024.12 ~ 현재 | 토스 (비바리퍼블리카) | ML/AI Infra Team Leader |
+| 2023.05 ~ 2024.11 | 위대한상상 (요기요) | MLOps Team Leader · MLOps Engineer |
+| 2019.02 ~ 2023.05 | 카카오모빌리티 | Data & MLOps Engineer |
 | 2018.04 ~ 2019.01 | ZEPL | DevOps & Backend Engineer |
-| 2015.01 ~ 2018.03 | SK플래닛 | Software Development Engineer |
+| 2015.01 ~ 2018.03 | SK플래닛 | Platform Engineer |
 
 ### ✍️ Articles & Talks
 
