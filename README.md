@@ -5,6 +5,9 @@
 데이터 엔지니어링을 바탕으로 대규모 MLOps와 AI/GPU 플랫폼을 설계하고 운영해 왔습니다.
 튼튼하고 비용 효율적인 인프라를 만들어 조직이 AI를 빠르게 프로덕션에 올릴 수 있도록 돕고 있습니다.
 
+📄 **About Me:** https://torreswoo.github.io/about-me/jongho-woo-cover-letter.html  
+💼 **LinkedIn:** https://www.linkedin.com/in/torreswoo/
+
 - 🏢 현재 **토스(비바리퍼블리카) ML/AI Infra Team Leader**
 - 🚀 수백 대 규모 GPU(H200, A100) 클러스터 · Kueue 기반 GPU 스케줄링 · vLLM/Dynamo LLM 서빙 · Agent Sandbox
 - ⚙️ Spark · Kafka · Flink 기반 실시간 데이터 파이프라인과 Feature Store
@@ -33,7 +36,7 @@
 - [토스 ML Platform & AI 인프라 엔지니어링 이야기](https://toss.im/career/article/39019) — Toss Career, 2025
 - [Data Driven Decision을 위한 Data Platform 구축기](https://www.slideshare.net/slideshow/data-driven-decision-kakaomobility/250375662) — 데이터야놀자, 2021
 - [Elastic Stack을 활용한 대용량 Data Pipeline 구축](https://www.slideshare.net/slideshow/elastic-stack-data-pipeline/238358718) — 외부 초청 강의, 2020
-- Kubernetes 위에서 JupyterHub 데이터 분석 환경 제공하기 — PyCon Korea, 2019
+- [Kubernetes 위에서 JupyterHub 데이터 분석 환경 제공하기](https://docs.google.com/presentation/d/1GznBPrYjEVyI5MHv5SBBJnpKv3lm8k7uhHhlaWAVv8w/edit?slide=id.g5a8697579c_0_123#slide=id.g5a8697579c_0_123) — PyCon Korea, 2019
 - [사내 A/B 테스트 플랫폼(PLab) 개발 및 11번가 상용화](https://www.slideshare.net/slideshow/ab-test-platform-sk-planet/76824962) — SK planet @TECH, 2017
 
 ### 🔗 Links
